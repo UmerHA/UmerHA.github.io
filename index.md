@@ -11,7 +11,7 @@
 </div>
 
 You're the target audience of my blog, if (like my 6 months past self) you:
-- want to deeply understand cutting-edge AI topics to do hands-on research / implementation
+- want to deeply understand cutting-edge AI topics to do hands-on research / engineering
 - are an experienced coder
 - like to understand the full picture top-down
 
