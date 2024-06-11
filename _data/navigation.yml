@@ -1,22 +1,10 @@
-# main links links
+# main links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Posts on AI"
+    url: /ai/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Smarties"
+    url: /smarties/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Essays & Observations"
+    url: /essays/    

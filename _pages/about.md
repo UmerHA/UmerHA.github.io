@@ -19,6 +19,6 @@ I gave a [well-received lecture](https://www.youtube.com/watch?v=DdTsX6DQk24) on
 
 On this site I share my learnings from doing AI R&D, and share writings on anything I find interesting.
 
-Feel free to get in touch via umer.hayat.adil at gmail.com or [Twitter (@UmerHAdil)](https://x.com/UmerHAdil)!
+Feel free to get in touch via umer.hayat.adil@gmail.com or [Twitter (@UmerHAdil)](https://x.com/UmerHAdil)!
 
 PS: I like to create local community by e.g. [organizing street festivals](https://twitter.com/UmerHAdil/status/1718753246309695644).

@@ -158,33 +158,19 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  ai:
     output: true
     permalink: /:collection/:path/
-  publications:
+  smarties:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  essays:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -192,41 +178,33 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _ai
   - scope:
       path: ""
-      type: teaching
+      type: ai
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _smarties
   - scope:
       path: ""
-      type: publications
+      type: smarties
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _essays
   - scope:
       path: ""
-      type: portfolio
+      type: essays
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+      comments: true
 
 
 # Sass/SCSS
