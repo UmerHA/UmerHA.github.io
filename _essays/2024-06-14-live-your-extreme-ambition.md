@@ -24,7 +24,7 @@ Yes, statistically, achieving something extremely ambitious is near impossible. 
 
 Even if you fail, you will learn way faster than and meet way more amazing people than your peers. Any future employer will want you more, and you will know of better job opportunities.
 
-And let's be real, Germany has a strong social safety net. In the extremely unlikely case that everything goes wrong in the worst possible way, you'll have a safety net that will catch you. You'll still live better than 80% (todo: find actual number) of people on earth. And how long will it take you to get back on your feet? Likely not long.
+And let's be real, Germany has a strong social safety net. In the extremely unlikely case that everything goes wrong in the worst possible way, you'll have a safety net that will catch you. You'll still live better than 80% of people on earth. And how long will it take you to get back on your feet? Likely not long.
 
 So the choice is not between "surely good" and "maybe amazing", but between "surely good" and "maybe amazing, almost certainly great, with 0% chance of existential risk."
 
