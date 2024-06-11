@@ -1,13 +1,12 @@
-*.swp
-~*
-*~
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-_notebooks/.ipynb_checkpoints
-.ipynb_checkpoints
-.DS_Store
+# Ignore the contents of the _site directory
+_site/
 
-Pipfile
+# Ignore the directory for local files during development
+local/
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+# Ingore files created by npm
+node_modules
+package-lock.json
