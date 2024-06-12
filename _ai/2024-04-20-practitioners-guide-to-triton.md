@@ -1,9 +1,8 @@
 ---
-title: "A Practiotioner's Guide to Triton"
+title: "A Practitioner's Guide to Triton"
 ---
 
 todo umer
-
 
 https://www.youtube.com/watch?v=DdTsX6DQk24
 
