@@ -2,6 +2,8 @@
 title:  You should live your extreme ambition
 ---
 
+<em>This essay is for very talented and ambitious young people in Germany. But most of it holds regardless of location and age.</em>
+
 You're a very talented and ambitious person in Germany. You likely are achieving in your work. But you have the diffuse and nagging feeling "I can do a lot more."
 
 "I am smart.", you say, "I have energy. There should be a way to achieve way more; shape reality in ways larger than I currently am." Why aren't you?
