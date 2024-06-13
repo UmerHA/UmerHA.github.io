@@ -2,7 +2,7 @@
 title: "We're collecting world-class triton kernels"
 ---
 
-You're an OpenSource AI researchers. You try different things, so you need different gpu kernels to make those things be fast (so you have shorter iteration cycles). But maybe other researchers have alredy written kernels for some parts of your ideas? And you're no gpu expert yet, so where can you see examples of really good kernels to learn from?
+You're an AI researcher. You try different things, so you need different gpu kernels to make those things be fast (so you have shorter iteration cycles). But maybe other researchers have alredy written kernels for some parts of your ideas? And you're no gpu expert yet, so where can you see examples of really good kernels to learn from?
 
 
 To address these issues, [Hailey Schoelkopf](https://x.com/haileysch__) (from [EleutherAI](https://www.eleuther.ai/)) and I started [triton-index](https://github.com/cuda-mode/triton-index).
