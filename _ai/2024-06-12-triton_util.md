@@ -26,10 +26,10 @@ Also, I find the `breakpoint_once()` and `print_once()` functions incredibly han
 
 You can install it via `pip install triton-util`. I suggest importing it like `import triton_util as tu`.
 
-I like to also abbreviations the debugging functions like so: `breakpoint_once, print_once, breakpoint_if, breakpoint_if = tu.breakpoint_once, tu.print_once, tu.breakpoint_if, tu.breakpoint_if`.
+I also like to abbreviate the debugging functions like so: `breakpoint_once, print_once, breakpoint_if, breakpoint_if = tu.breakpoint_once, tu.print_once, tu.breakpoint_if, tu.breakpoint_if`.
 
 Check [triton_util](https://github.com/UmerHA/triton_util/) out!
 
-And let me know what think via [Twitter](https://x.com/UmerHAdil) or umer.hayat.adil@gmail.com.
+And let me know what you think via [Twitter](https://x.com/UmerHAdil) or umer.hayat.adil@gmail.com.
 
 \- Umer
