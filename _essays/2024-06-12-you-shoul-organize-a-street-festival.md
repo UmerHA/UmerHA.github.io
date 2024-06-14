@@ -43,10 +43,10 @@ So, in addition to being a lot of fun for everyone and genuinely beneficial to y
 I’ll write a more detailed post on it, so let me be very brief here. The goal of a Street Festival is to create a temporary shared living room where neighbors enjoy spending a few hours together. So don’t worry about needing to be professional and having enough snacks.
 
 You need to:
-1)	Decide on a time and place (most likely your street – but where exactly?)
-2)	Work with the city: get their approval, have insurance, close off the street, …
-3)	Inform your neighbors: make them want to come, remind them to park their cars elsewhere, tell them to bring snacks and drinks, ask if they want to show off their art/music/… 
-4)	Do the Street Festival: make the street cozy, have music, have games, have a bouncy castle
+1. Decide on a time and place (most likely your street – but where exactly?
+2. Work with the city: get their approval, have insurance, close off the street,
+3. Inform your neighbors: make them want to come, remind them to park their cars elsewhere, tell them to bring snacks and drinks, ask if they want to show off their art/music/…
+4. Do the Street Festival: make the street cozy, have music, have games, have a bouncy castle
 
 
 **Hit me up, I’ll help you!**
