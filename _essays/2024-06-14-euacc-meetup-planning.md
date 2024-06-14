@@ -6,7 +6,7 @@ title:  Making an eu/acc meetup most useful
 
 I'm organizing a meetup for eu/acc. How can I make it most useful?
 
-**What is eu/acc**
+## What is eu/acc
 
 eu/acc is a decentralized movement to accelerate innovation in Europe. This is needed, because Europe has world-class talent & research, but is failing to produce world-class companies.
 
@@ -16,7 +16,7 @@ eu/acc aims to work on ambitious, but specific & implementable projects to addre
 - European startup legal entity
 - blueprint for European holding company (as long as there's no European startup legal entity)
 
-**How can the meetup be valuable to the eu/acc movement?**
+## How can the meetup be valuable to the eu/acc movement?
 
 - verify understanding of problem
     - what's the experience of European founders?
@@ -28,7 +28,7 @@ eu/acc aims to work on ambitious, but specific & implementable projects to addre
 - become more widely known
 
 
-**How can the meetup be valuable to the participants?**
+## How can the meetup be valuable to the participants?
 
 Participants can
 - meet amazing people
@@ -38,7 +38,7 @@ Participants can
 
 Participants are likely very smart & high energy. Don't try to 'tame' them. If the group discussion goes into an unexpected direction, that's totally okay.
 
-**So how should the agenda look like?**
+## So how should the agenda look like?
 
 Agenda:
 - Arrival
@@ -75,6 +75,8 @@ After the meetup:
 - Post summary to eu/acc discord
 - Mail summary to attendees & keep their energy high (to make it more likely plans are followed through)
 
-Okay, let's do this!
+___
+
+**Okay, let's do this!**
 
 \- Umer
