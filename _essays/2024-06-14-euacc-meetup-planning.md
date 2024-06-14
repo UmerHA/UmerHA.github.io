@@ -2,7 +2,7 @@
 title:  Making an eu/acc meetup most useful
 ---
 
-<em>This is my thinking about how to make eu/acc meetup in Cologne most useful. It's indended to be consice & actionable; and **not** marketing speak. For an intro to eu/acc see https://eu-acc.com/</em>
+<em>This is my thinking about how to make the eu/acc meetup in Cologne most useful. It's intended to be concise & actionable; and **not** marketing speak. For an intro to eu/acc see https://eu-acc.com/</em>
 
 I'm organizing a meetup for eu/acc. How can I make it most useful?
 
@@ -20,8 +20,8 @@ eu/acc aims to work on ambitious, but specific & implementable projects to addre
 
 - verify understanding of problem
     - what's the experience of European founders?
-    - what were their paint points?
-    - how do they differ from paint points of eg American founders?
+    - what were their pain points?
+    - how do they differ from pain points of eg American founders?
 
 - get new project ideas
 - get talented & energetic  people into existing projects
