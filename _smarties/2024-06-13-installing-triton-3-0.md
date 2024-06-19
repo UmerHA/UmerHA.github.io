@@ -23,9 +23,18 @@ pip install -e python # takes a couple of minutes
 ```
 
 4. Run setup
+
+If you don't plan to change the Triton source code:
+
 ```
 cd python
 python setup.py install
+```
+
+If you plan to change the Triton source code:
+```
+cd python
+python setup.py develop
 ```
 
 Hope I saved you some hassle & time.
