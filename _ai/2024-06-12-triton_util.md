@@ -2,7 +2,7 @@
 title: "Making OpenAI Triton easier 🔱 😊"
 ---
 
-I find writing [triton kernels](triton-lang.org) involves many repetitive tasks, that can be cleanly abstracted away. This allows to write triton code much more in line with how I actually think. It's way more fun, and less mentally draining.
+I find writing [triton kernels](https://triton-lang.org/) involves many repetitive tasks, that can be cleanly abstracted away. This allows to write triton code much more in line with how I actually think. It's way more fun, and less mentally draining.
 
 So I made [triton_util](https://github.com/UmerHA/triton_util/), which aims to be a [fastcore](https://fastcore.fast.ai/)-like plug & play addon to OpenAI triton.
 
