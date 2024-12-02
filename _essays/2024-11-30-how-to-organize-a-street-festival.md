@@ -55,6 +55,7 @@ A good Street Festival is a (temporary) shared, cozy living room on the street. 
 
 I suggest making a rough map of your festival. This is how ours looked like (left end: cul-de-sac):
  
+![Street Festival Map](/images/street_festival_map.jpg)
 
 **Sitting space:** Have enough sitting space, eg with chairs, beer benches, etc.
 
