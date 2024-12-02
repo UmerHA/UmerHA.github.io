@@ -10,7 +10,7 @@ title:  How to organize a Street Festival
 
 We had a 7-people team of varying degree of involvement. We had 4 people in the core team. They did planning and preparation together. Additionally, 3 people were in the extended team and helped during the Street Festival itself (setting up, solving any problems, cleaning up, …).
 
-I want to implore you to remember that you as the initiator have the privilege and responsibility to will the Street Festival into existence. So, as in any leadership position, be energetic, decisive and positive!
+I want to remind you that you as the initiator have the privilege and responsibility to will the Street Festival into existence. So, as in any leadership position, be energetic, decisive and positive!
 
 ## Do the Street Festival
 
