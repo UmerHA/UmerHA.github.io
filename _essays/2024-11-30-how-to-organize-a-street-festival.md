@@ -2,9 +2,11 @@
 title:  How to organize a Street Festival
 ---
 
-*Note: To be as specific as possible, I’ll describe exactly what we did for the Street Festival in Bonn, Germany. The rough process should be applicable to any city.*
+*To be as specific as possible, I’ll describe exactly what we did for the Street Festival in Bonn, Germany. The rough process should be applicable to any city.*
 
 *I’ll also tell you what specific products/services we used. These are examples to make it as easy as possible for you. This post is not sponsored.*
+
+*[Deutsche Version](https://www.umerha.com/essays/2024-11-30-so-organisierst-du-ein-strassenfest/) dieses Artikels.*
 
 ## Assemble your team
 
