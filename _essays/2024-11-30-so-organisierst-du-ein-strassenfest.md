@@ -46,9 +46,9 @@ Um Unterschriften zu sammeln kannst Du entweder die Liste an Haustüren hängen 
 
 Wir haben etwa 3-4 Stunden gebraucht, um bei ca. 100 Wohnungen zu klingeln und haben ca. 30 Unterschriften gesammelt. Nur zwei Nachbarn wollten nicht unterschrieben. (Die anderen waren nicht zu Hause.)
 
-Als nächstes musst Du Veranstaltungshaftpflicht abschließen. Das ist wichtig, damit Du abgesichert bist, falls etwas wirklich schiefläuft. Wie bei allen Versicherungen deckt die Veranstaltungshaftpflicht Schäden bis zu einem Maximalbetrag (“Deckungssumme”). Höhere Deckungssummen sind entsprechend teurer. Wähle also eine Deckungssumme / Preis, mit dem Du Dich gut fühlst.  Wir haben eine Deckungssumme von 5 Mio. € gewählt und 112€ bezahlt.
+Als Nächstes musst Du eine Veranstaltungshaftpflicht abschließen. Das ist wichtig, damit Du abgesichert bist, falls etwas wirklich schiefläuft. Wie bei allen Versicherungen deckt die Veranstaltungshaftpflicht Schäden bis zu einem Maximalbetrag (“Deckungssumme”) ab. Höhere Deckungssummen sind entsprechend teurer. Wähle also eine Deckungssumme und einen Preis, mit denen Du Dich gut fühlst.  Wir haben eine Deckungssumme von 5 Mio. € gewählt und 112€ bezahlt.
 
-Ich kann unsere Veranstaltungshaftpflicht nicht verlinken, weil sie nicht mehr angeboten wird. Aber eine Google-Suche nach "Veranstaltungshaftpflicht" zeigt Dir genug Anbieter.
+Ich kann unsere Veranstaltungshaftpflicht nicht verlinken, weil sie nicht mehr angeboten wird. Aber eine [Google-Suche nach "Veranstaltungshaftpflicht"](www.google.com/search?q=Veranstaltungshaftpflicht) zeigt Dir genug Anbieter.
 
 Du brauchst außerdem Material, um den relevanten Teil der Straße abzusperren. Achte darauf, dass für Verkehrsteilnehmer klar ist, dass die Straße gesperrt ist. Dh nicht nur ein aufgestelltes Schild oÄ, sondern eine echte Absperrschranke. Du kannst regionale Umzugsfirmen fragen, ob Du welche ausleihen kannst.
 
@@ -68,20 +68,20 @@ Für besondere Aktivitäten wie die Hüpfburg kann die Stadt helfen. Die Stadt B
 
 **Atmosphäre:** Dekoriere die Straße gemütlich. Wir hatten Wimpelketten aufgehängt und mit einer großen Musikbox (ausgeliehen von einer lokalen Band) Hintergrundmusik gespielt.
 
-**Essen:** Bitte deine Nachbarn, etwas mitzubringen. Die meisten machen das sehr. Es wird eher zu viel als zu wenig Essen da sein!
+**Essen:** Bitte deine Nachbarn, etwas mitzubringen. Die meisten machen das sehr gerne. Es wird eher zu viel als zu wenig Essen da sein!
 
 **Getränke:** Du hast zwei Möglichkeiten: selbst einkaufen oder einen Caterer beauftragen. Caterer sind teurer, erleichtern aber den Transport und stellen eventuell Kühlschränke. Selbst einkaufen ist günstiger, bedeutet aber mehr Aufwand – besonders bei der Kühlung.
 
-Wir hatten einen Caterer, würden es beim nächsten Mal aber selbst organisieren.
+Wir hatten [einen Caterer](https://www.vendel.de/), mit dem alles super geklappt hat, würden aber aus Kostengründen beim nächsten Mal selbst einkaufen.
 Wichtig in beiden Fällen: Handle einen Kauf auf Kommission aus. Dh Du zahlst nur die verbrauchten Getränke, der Rest geht zurück.
 
-**Strom:** Frage einen Nachbarn, ob Du seinen Strom nutzen darfst. Lies den Zählerstand vor und nach dem Fest ab und erstatte die Kosten. Alternativ könnt ihr vorher ausmachen, der Strom eine Spende zum Straßenfest ist (und Du daher keine Geldspende erwartest).
+**Strom:** Frage einen Nachbarn, ob Du seinen Strom nutzen darfst. Lies den Zählerstand vor und nach dem Fest ab und erstatte die Kosten. Alternativ könnt ihr vorher ausmachen, dass der Strom eine Spende zum Straßenfest ist (und Du daher keine Geldspende erwartest).
 
 **Toiletten:** Mobile Toiletten sind nicht nötig, weil Nachbarn ihre eigenen Toiletten nutzen können.
 
 **4. Nachbarn informieren**
 
-Informiere deine Nachbarn über das Fest. Ziele sind: Sie zum Kommen motivieren, zum Mitmachen animieren und sicherstellen, dass die Autos während des Festes woanders geparkt werden.
+Informiere deine Nachbarn über das Fest. Ziele sind: Sie zum Kommen motivieren, zum Mitmachen animieren und sicherstellen, dass Autos während des Festes woanders geparkt werden.
 
 Wir hatte 5 Kontaktpunkte:
 - 5 Wochen vorher - Mit Kreide auf die Straße geschrieben (Datum, Uhrzeit, unsere Namen, Kontakt)
@@ -92,12 +92,12 @@ Wir hatte 5 Kontaktpunkte:
 
 **5. Fest durchführen**
 
-Der große Tag! Plane 3 Stunden für die Vorbereitung: Straße absperren, dekorieren, Musik einrichten, Sitzgelegenheiten aufstellen, Spielgeräte aufbauen. 3 Stunden wirken lang, aber es werden immer unerwartet Probleme auftreten, und Du möchtest genug Zeit haben diese zu klären.
+Der große Tag! Plane 3 Stunden für die Vorbereitung: Straße absperren, dekorieren, Musik einrichten, Sitzgelegenheiten aufstellen, Spielgeräte aufbauen. 3 Stunden wirken lang, aber es werden immer unerwartete Probleme auftreten, und Du möchtest genug Zeit haben diese zu klären.
 
-Bei uns hat zB der Strom nicht funktioniert, und wir mussten spontan einen anderen Nachbar überzeugen uns Strom zu liefern. Außerdem waren einige Autos nicht umgeparkt, und der Aufbau der Hüpfburg hat einfach viel länger gedauert als erwartet.
+Bei uns hat zB der Strom nicht funktioniert, und wir mussten spontan einen anderen Nachbar überzeugen uns Strom zu liefern. Außerdem waren einige Autos nicht umgeparkt, und der Aufbau der Hüpfburg hat viel länger gedauert als erwartet.
 
-Zu Beginn des Festes kommen die Gäste nach und nach – das ist normal. Lass dich nicht entmutigen, wenn es anfangs noch etwas leer wirkt.
-Bleib positiv und begrüße jeden Neuankömmling persönlich. Viele Nachbarn kennen sich nicht untereinander. Als Gastgeber ist es deine Aufgabe, sie willkommen zu heißen und miteinander bekannt zu machen.
+Zu Beginn des Festes trudeln die Gäste nach und nach ein – das ist normal. Lass dich nicht entmutigen, wenn es anfangs noch etwas leer wirkt.
+Bleib positiv und begrüße jeden Neuankömmling persönlich. Viele Nachbarn kennen sich noch nicht untereinander. Als Gastgeber ist es deine Aufgabe, sie willkommen zu heißen und miteinander bekannt zu machen.
 
 Stelle außerdem eine Spendenbox auf und kontrolliere gelegentlich wie viele Spenden bislang da sind. Falls sich abzeichnet, dass die Spenden die Kosten nicht decken werden können, ist es absolut in Ordnung eine Ansage zu machen und um Spenden zu bitten. Deine Nachbarn werden vollkommen verstehen, dass Du/Dein Team nicht auf den Kosten sitzen bleiben willst/wollt.
 
