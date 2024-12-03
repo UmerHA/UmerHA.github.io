@@ -40,7 +40,7 @@ So, in addition to being a lot of fun for everyone and genuinely beneficial to y
 
 **How to do it**
 
-I’ll write a more detailed post on it, so let me be very brief here. The goal of a Street Festival is to create a temporary shared living room where neighbors enjoy spending a few hours together. So don’t worry about needing to be professional and having enough snacks.
+I’ll write [a more detailed post](https://www.umerha.com/essays/2024-11-30-how-to-organize-a-street-festival/) on it, so let me be very brief here. The goal of a Street Festival is to create a temporary shared living room where neighbors enjoy spending a few hours together. So don’t worry about needing to be professional and having enough snacks.
 
 You need to:
 1. Decide on a time and place (most likely your street – but where exactly?
