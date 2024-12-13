@@ -2,10 +2,10 @@
 title: "We're collecting world-class triton kernels"
 ---
 
-You're an AI researcher. You try different things, so you need different gpu kernels to make those things be fast (so you have shorter iteration cycles). But maybe other researchers have alredy written kernels for some parts of your ideas? And you're no gpu expert yet, so where can you see examples of really good kernels to learn from?
+You're an AI researcher. You try different things, so you need different gpu kernels to make those things be fast (so you have shorter iteration cycles). But maybe other researchers have already written kernels for some parts of your ideas? And you're no gpu expert yet, so where can you see examples of really good kernels to learn from?
 
 
-To address these issues, [Hailey Schoelkopf](https://x.com/haileysch__) (from [EleutherAI](https://www.eleuther.ai/)) and I started [triton-index](https://github.com/cuda-mode/triton-index).
+To address these issues, [Hailey Schoelkopf](https://x.com/haileysch__) (not at [Anthropic](https://www.anthropic.com/), then at [EleutherAI](https://www.eleuther.ai/)) and I started [triton-index](https://github.com/cuda-mode/triton-index).
 
 
 The goals of triton-index are:
@@ -18,7 +18,7 @@ The goals of triton-index are:
     - (i) work of the community can be more targeted, and
     - (ii) eager people new to our community have projects to demonstrate their skill.
 
-Feel free to use, share and contribute!
+Feel free to use, share, and contribute!
 
 And of course, let me know if we can make it better for you.
 
