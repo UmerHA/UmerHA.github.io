@@ -104,6 +104,7 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - _forward
   - files
 exclude:
   - "*.sublime-project"
