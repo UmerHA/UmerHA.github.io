@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a scientist & developer in Open-Source AI. My current project is to make finetuning large models really fast.
+I'm a scientist & developer in Open-Source AI.
 
 Before that I took a sabbatical to transition from banking strategy consulting into deeptech AI R&D. I did that by contributing to [HuggingFace diffusers](), and previously [LangChain](https://www.langchain.com/) and [gpt-engineeer](https://github.com/gpt-engineer-org/gpt-engineer) (where I became maintainer for a while).
 
