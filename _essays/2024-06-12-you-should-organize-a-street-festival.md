@@ -14,7 +14,7 @@ First, in the moment, a good Street Festival is just plain fun for everyone. You
 
 Second, people get to know each other. There’s a chance for friendships and romance. Is it not awesome to know that maybe kids will be made because people met because of you?
 
-Third, a community forms. Experiencing your street as a shared living space creates a feeling of home. You feel better in your street, because it’s not just a place it is becoming YOUR place. You and your neighbor down the street don’t just co-exist; you start to co-live. With enough repetition, I think this can create genuine communities of care over time.
+Third, a community forms. Experiencing your street as a shared living space creates a feeling of home. You feel better in your street, because it’s not just a place; it is becoming YOUR place. You and your neighbor down the street don’t just co-exist; you start to co-live. With enough repetition, I think this can create genuine communities of care over time.
 
 
 **It benefits your organizing team.**
@@ -31,7 +31,7 @@ The biggest benefit, however, is a gain in agency. Many members of my organizing
 
 I think you will benefit the most. You will have fun and meet a lot of new people. Your agency will get a large boost (You, yes, you, organized a Street Festival. You can do anything!).
 
-On top of that, you will get social credibility for any events you might want to in the future. Need to borrow a tent or some tables? Your local shops know you now and will be more likely to lend them to you. 
+On top of that, you will get social credibility for any events you might want to do in the future. Need to borrow a tent or some tables? Your local shops know you now and will be more likely to lend them to you. 
 
 And lastly, you will make connections with local civic society. Maybe you had asked the city or local political parties to borrow toys for the kids. Now they know you.
 
@@ -43,7 +43,7 @@ So, in addition to being a lot of fun for everyone and genuinely beneficial to y
 I’ll write [a more detailed post](https://www.umerha.com/essays/2024-11-30-how-to-organize-a-street-festival/) on it, so let me be very brief here. The goal of a Street Festival is to create a temporary shared living room where neighbors enjoy spending a few hours together. So don’t worry about needing to be professional and having enough snacks.
 
 You need to:
-1. Decide on a time and place (most likely your street – but where exactly?
+1. Decide on a time and place: most likely your street – but where exactly?
 2. Work with the city: get their approval, have insurance, close off the street,
 3. Inform your neighbors: make them want to come, remind them to park their cars elsewhere, tell them to bring snacks and drinks, ask if they want to show off their art/music/…
 4. Do the Street Festival: make the street cozy, have music, have games, have a bouncy castle
