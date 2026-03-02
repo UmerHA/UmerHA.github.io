@@ -118,7 +118,7 @@ Hier eine [Auflistung unsere Kosten](https://docs.google.com/spreadsheets/d/12ak
 
 ---
 
-**Das war's!** Das war's! Hier findest Du eine Zusammenfassung in Form [einer Checkliste](https://drive.google.com/file/d/1kXbDzlQKQV-EuTOudAgTNko5jOFOs_GL/view?usp=sharing).
+**Das war's!** Hier findest Du eine Zusammenfassung in Form [einer Checkliste](https://drive.google.com/file/d/1kXbDzlQKQV-EuTOudAgTNko5jOFOs_GL/view?usp=sharing).
 
 Du kannst mir gerne schreiben, falls Du Fragen hast: umer.hayat.adil@gmail.com. 
 Und falls Du ein Straßenfest in Deutschland organisiert und Hilfe brauchst (zB bei Organisation, Sponsoring, …), melde Dich! Ich werde mein Bestes geben, um Dich zu unterstützen.
