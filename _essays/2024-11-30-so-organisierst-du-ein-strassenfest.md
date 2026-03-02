@@ -112,7 +112,7 @@ Hier eine [Auflistung unsere Kosten](https://docs.google.com/spreadsheets/d/12ak
 
 ## Risikovorsorge
 
-**Medizinisch:** Ihr solltet einen groben Plan für medizinische Notfälle haben, dh Erste-Hilfe-Kasten haben und im Besten Fall einen medizinischen Ansprechpartner im Team. Wir hatten das Glück, dass wir im Team eine Ärztin hatten, die sich das übernommen hat.
+**Medizinisch:** Ihr solltet einen groben Plan für medizinische Notfälle haben, dh Erste-Hilfe-Kasten haben und im Besten Fall einen medizinischen Ansprechpartner im Team. Wir hatten das Glück, dass wir im Team eine Ärztin hatten, die das übernommen hat.
 
 **Wetter:** Bei schlechtem Wetter kann das Fest leider nicht stattfinden. Dieses Risiko lässt sich nicht vermeiden, aber ein Termin in der warmen Jahreszeit minimiert es zumindest.
 
