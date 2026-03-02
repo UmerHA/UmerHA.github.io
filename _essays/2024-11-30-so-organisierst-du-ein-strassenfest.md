@@ -48,7 +48,7 @@ Wir haben etwa 3-4 Stunden gebraucht, um bei ca. 100 Wohnungen zu klingeln und h
 
 Als Nächstes musst Du eine Veranstaltungshaftpflicht abschließen. Das ist wichtig, damit Du abgesichert bist, falls etwas wirklich schiefläuft. Wie bei allen Versicherungen deckt die Veranstaltungshaftpflicht Schäden bis zu einem Maximalbetrag (“Deckungssumme”) ab. Höhere Deckungssummen sind entsprechend teurer. Wähle also eine Deckungssumme und einen Preis, mit denen Du Dich gut fühlst.  Wir haben eine Deckungssumme von 5 Mio. € gewählt und 112€ bezahlt.
 
-Ich kann unsere Veranstaltungshaftpflicht nicht verlinken, weil sie nicht mehr angeboten wird. Aber eine [Google-Suche nach "Veranstaltungshaftpflicht"](www.google.com/search?q=Veranstaltungshaftpflicht) zeigt Dir genug Anbieter.
+Ich kann unsere Veranstaltungshaftpflicht nicht verlinken, weil sie nicht mehr angeboten wird. Aber eine [Google-Suche nach "Veranstaltungshaftpflicht"](https://www.google.com/search?q=Veranstaltungshaftpflicht) zeigt Dir genug Anbieter.
 
 Du brauchst außerdem Material, um den relevanten Teil der Straße abzusperren. Achte darauf, dass für Verkehrsteilnehmer klar ist, dass die Straße gesperrt ist. Dh nicht nur ein aufgestelltes Schild oÄ, sondern eine echte Absperrschranke. Du kannst regionale Umzugsfirmen fragen, ob Du welche ausleihen kannst.
 
